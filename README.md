@@ -62,7 +62,7 @@ _sourceControllerName_: Name of the controller that holds the ajax file.
 _keyword_: Keyword that identifies the ajax file. See whitelisting instructions above.
 
 ###Example
-The following is a code excerpt from [Playhouse](http://mikael.hernvall.com "Playhouse"). It uses the whitelist presented under [the whitelist example section](DERP "whitelist example").
+The following is a code excerpt from [Playhouse](http://mikael.hernvall.com "Playhouse"). It uses the whitelist presented under [the whitelist example section](https://github.com/MickeMakaron/gyg-ajax-controller#example "whitelist example").
 
 	$.ajax(
 	{
